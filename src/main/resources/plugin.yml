@@ -1,0 +1,5 @@
+name: PlayerStacker
+version: ${project.version}
+main: me.hsgamer.playerstacker.PlayerStacker
+api-version: 1.13
+authors: [ HSGamer ]
